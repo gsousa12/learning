@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+
+}
+
+.container {
+    background-color: rgba(0, 0, 255, 0.363);
+
+    position: absolute;
+
+    width: 400px;
+    height: 220px;
+
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    
+}
+
+.container >button {
+    margin: 0px 5px;
+    width: 60px;
+    margin-left: 10px;
+    font-size: 15px;
+    justify-content: center;
+    text-align: center;
+}
+
+.subTitulo {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#titulo {
+    text-align: center;
+    margin: 10px 0;
+}
+
+#textResultado {
+    margin-left: 10px;
+}
+

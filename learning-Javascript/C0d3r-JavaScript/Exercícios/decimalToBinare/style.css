@@ -1,0 +1,57 @@
+
+body{
+  display: flex;
+  justify-content: center;
+}
+
+.container{
+  margin-top: 2em;
+  width: 10em;
+}
+
+.inputContainer,.outputContainer{
+  height: 10em;  
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+
+}
+
+.inputContainer{
+  background: rgb(55, 51, 110);
+}
+
+.outputContainer{
+  background: rgb(190, 203, 240);
+
+  word-break: break-all;
+}
+
+h1{
+  font-size: small;
+  padding: 1em;
+}
+
+input{
+  background-color: rgba(0, 0, 0, 0);
+  
+  color: rgb(241, 237, 229);
+
+  height: 2em;
+  width: 5em;
+
+  font-size: 1em;
+  font-weight: bold;
+
+  text-align: center;
+
+  border: none;
+
+}
+
+input:focus{
+  outline: none;
+}

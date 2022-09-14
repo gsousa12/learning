@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(98, 46, 67);
+  color: white;
+}
+
+main {
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  width: 500px;
+  height: 500;
+}
+
+.divAltura {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.divPeso {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.divCalcular {
+  width: 90%;
+}
+
+.divCalcular > button {
+  width: 100%;
+  cursor: pointer;
+}
+
+button:hover {
+    width: 100%;
+    cursor: pointer;
+    background-color: rgb(255, 221, 221);
+  }
+
+input,
+button {
+  padding: 10px;
+  font-size: 20px;
+  outline: none;
+  border: none;
+  border: 5px;
+}

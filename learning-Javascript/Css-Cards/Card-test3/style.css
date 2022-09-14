@@ -1,0 +1,75 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(255, 255, 255);
+  border: 5px solid red;
+}
+
+.container {
+  border: 2px solid rgba(189, 181, 181, 0.26);
+  width: 400px;
+  height: 450px;
+  background: white;
+  border-radius: 20px;
+}
+
+.cardTop {
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to top,white 50%, #6161bb 50%);
+  border-radius: 15px;
+}
+
+#cardTopImg {
+  border-radius: 50%;
+  border: 3px solid white;
+  width: 150px;
+  height: 150px;
+}
+
+.cardDescription {
+  height: 300px;
+ letter-spacing: 1px;
+ padding: 10px;
+ text-align: center;
+}
+
+#cardDescriptionName {
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+
+#cardDescriptionJob {
+  font-size: 25px;
+  margin-bottom: 15px;
+  color: #6161bb;
+}
+
+#cardDescriptionSkills {
+  font-size: 15px;
+  margin-bottom: 25px;
+  font-weight: bold;
+
+}
+
+#cardDescriptionCheck{
+  text-decoration: underline;
+  color: #3d1dc9;
+  font-size: 25px;
+  margin-bottom: 15px;
+}
+#cardDescriptionCheck:hover{
+  color: #341ba3;
+  cursor: pointer;
+}

@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\GitHub\Estudos-C#\learning\bin\Debug\net6.0\learning.exe
+C:\Users\Gabriel\Desktop\GitHub\Estudos-C#\learning\bin\Debug\net6.0\learning.deps.json
+C:\Users\Gabriel\Desktop\GitHub\Estudos-C#\learning\bin\Debug\net6.0\learning.runtimeconfig.json
+C:\Users\Gabriel\Desktop\GitHub\Estudos-C#\learning\bin\Debug\net6.0\learning.dll
+C:\Users\Gabriel\Desktop\GitHub\Estudos-C#\learning\bin\Debug\net6.0\learning.pdb
+C:\Users\Gabriel\Desktop\GitHub\Estudos-C#\learning\obj\Debug\net6.0\learning.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\GitHub\Estudos-C#\learning\obj\Debug\net6.0\learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\GitHub\Estudos-C#\learning\obj\Debug\net6.0\learning.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\GitHub\Estudos-C#\learning\obj\Debug\net6.0\learning.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\GitHub\Estudos-C#\learning\obj\Debug\net6.0\learning.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\GitHub\Estudos-C#\learning\obj\Debug\net6.0\learning.dll
+C:\Users\Gabriel\Desktop\GitHub\Estudos-C#\learning\obj\Debug\net6.0\refint\learning.dll
+C:\Users\Gabriel\Desktop\GitHub\Estudos-C#\learning\obj\Debug\net6.0\learning.pdb
+C:\Users\Gabriel\Desktop\GitHub\Estudos-C#\learning\obj\Debug\net6.0\learning.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\GitHub\Estudos-C#\learning\obj\Debug\net6.0\ref\learning.dll

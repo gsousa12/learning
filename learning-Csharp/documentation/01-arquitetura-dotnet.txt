@@ -1,0 +1,15 @@
+Os programas em c# são executados no .NET.
+
+.NET = um sistema de execução virtual chamado 
+CLR (Common Language Runtime) e um conjunto de bibliotecas de classes.
+
+CLR é a implementação pela Microsoft da CLI(Common Language Infrastructure).
+
+O Código-fonte escrito em c# é compilado em uma Linguagem Intermediária.
+
+O código e os recursos são armazenados em um assembly (.dll normalmente).
+
+Quando o c# é executado, o assembly é carregado no CLR. Em seguida o CLR executará a
+compilação JUST-IN-TIME para converter o código de IL em instruições nativas.
+
+O CRL também oferece o garbage colector, tratamento de exeções e gerenciamento de recursos.

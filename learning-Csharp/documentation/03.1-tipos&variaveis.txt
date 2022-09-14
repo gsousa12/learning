@@ -1,0 +1,40 @@
+Um tipo define a estrutura e comportamento de qualquer dado em C#.
+
+A dos tipos em C# -> Tipos de Referência e Tipos de Valor.
+
+Variáveis de tipos de valor contêm diretamente seus dados.
+Variáveis de tipos de referência armazenam referências e seus dados.
+
+Os tipos de Valor em C# são divididos em :
+* Simples
+* Enum
+* Struct
+* Anulável 
+* Tupla
+
+Os tipos de Referência em C# são divididos em :
+* Classe
+* Interface 
+* Matriz
+* Delegados
+
+Seis das categorias do C# de tipos são definidods pelo usuário.
+Classe,Struct,Interface,Enum,Delegados,Tupla.
+
+Também é possivel declarar tipos record,record struct ou record class.
+
+Os tipos class, struct, interface e delegate dão suporte a genéricos 
+e podem ser parametrizados com outros tipos.
+
+O C# permite matrizes de qualquer tipo. Os tipos matrizes não precisam ser declarados
+antes de serem usados.
+
+Construção de matriz -> int[] é uma matriz unidimensional de int.
+                        int[x,y] é uma matriz bidimensional de int.
+                        int [][] é uma matriz dentada de int. 
+
+O sistema de tipos do C# é unificado, de modo que qualquer valor de qualquer tipo pode ser
+tratado como object.
+
+Cada tipo no C# deriva do tipo classe object, e object é a classe base de todos os tipos.
+

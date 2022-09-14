@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap");
+
+:root {
+  --white-ligth: #faf7fd;
+  --grey: #2a3235;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  background: var(--white-ligth);
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.treeContainer {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.treeContainer .profilePicture {
+  border-radius: 50%;
+  width: 216px;
+  height: 216px;
+  border: 1px solid var(--grey);
+  border-style: dotted;
+  border-width: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.treeContainer .profilePicture img {
+  width: 205px;
+  height: 205px;
+  border-radius: 50%;
+}
+
+.treeContainer #nome {
+  margin-top: 15px;
+}
+
+.treeContainer #desc {
+  margin-top: 7px;
+}
+
+.treeContainer #redes {
+  margin-top: 30px;
+  color: var(--grey);
+  text-transform: uppercase;
+}
+
+.treeContainer #contatos {
+  margin-top: 30px;
+  color: var(--grey);
+  text-transform: uppercase;
+}
+
+.treeContainer .linksContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.linksContainer .link {
+  margin-top: 15px;
+  width: 325px;
+  height: 30px;
+  border: 2px solid var(--grey);
+  text-align: center;
+  border-radius: 7px;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 12px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--white-ligth);
+  background: var(--grey);
+  transition: all ease 0.3s;
+}
+
+.linksContainer .link:hover {
+  width: 330px;
+  height: 40px;
+}
